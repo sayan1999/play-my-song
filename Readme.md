@@ -1,8 +1,8 @@
 # Play My Song
 A wrapper on linux based music player Rhythmbox, that avails colsest search mechanism on your music library.
 
-![Preview](src/examples/preview1.png?raw=true "Entering song name by user")
-![Preview](src/examples/preview1.png?raw=true "Approximate search result")
+![Preview](src/examples/preview 1.png?raw=true "Entering song name by user")
+![Preview](src/examples/preview 2.png?raw=true "Approximate search result")
 
 
 ## Dependencies
