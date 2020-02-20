@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Play My Song
+Comment=A custom Music search Player
+Exec=playmysong
+Icon=examples/play-my-song.png
+Terminal=false
